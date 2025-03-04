@@ -1,4 +1,4 @@
-#### Hi, I’m Leo 👋
+## Hi, I’m Leo 👋
 
 I don't follow trends the way many in the tech community do,
 and I don’t believe the world is in urgent need of AGI.
